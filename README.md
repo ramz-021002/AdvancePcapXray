@@ -28,8 +28,8 @@ sudo apt install python3-pil python3-pil.imagetk
 sudo pip3 install -r requirements.txt
 ```
 4. In the file plot_lan_network.py 
-  a. Add your API key of [abuseipdb](https://www.abuseipdb.com)
-  b. In the main definition add the path you have cloned the repository
+a. Add your API key of [abuseipdb](https://www.abuseipdb.com)
+b. In the main definition add the path you have cloned the repository
 5. In user_interface.py add the path you have cloned the repository
 6. If Zeek is not present in the machine install Zeek
 7. Once Zeek is successfully installed set the directory using the following command
