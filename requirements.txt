@@ -1,0 +1,34 @@
+# Dependancy Modules
+
+# Pcap Reader and Packet Handler
+scapy
+pyshark
+
+# Not Needed for Linux, Needed only for MAC when Scapy is not properly downloaded
+#pcapy
+#dnet #libdnet
+
+# ipwhois
+ipwhois
+
+#netaddr - IP addresses handling
+netaddr
+
+#Pillow - Image Processing
+pillow
+
+#Tor
+stem
+
+#Graphics
+networkx
+graphviz
+matplotlib
+
+# Interactive Maps
+cefpython3
+pyvis
+
+# Ciphersuites
+cryptography
+
