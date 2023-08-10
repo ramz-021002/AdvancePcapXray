@@ -18,7 +18,10 @@ git clone https://github.com/ramz-021002/AdvancePcapXray.git
 ```
 2. Install a few requirements
 ```
-sudo apt install python3-pip sudo apt install python3-tk sudo apt install graphviz sudo apt install python3-pil python3-pil.imagetk
+sudo apt install python3-pip
+sudo apt install python3-tk
+sudo apt install graphviz
+sudo apt install python3-pil python3-pil.imagetk
 ````
 3. Install other requirements using pip from the requirements.txt
 ```
