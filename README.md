@@ -86,7 +86,7 @@ export PATH=/usr/local/zeek/bin:$PATH
 ```
 11. Run the source command and check the zeek path and zeek version
 ```
-source ~./bashrc
+source ~/.bashrc
 which zeek
 zeek --version
 ```
