@@ -1,4 +1,5 @@
 #!/bin/bash
+python3 Module/art.py
 trap "exit" INT
 while true
 do
