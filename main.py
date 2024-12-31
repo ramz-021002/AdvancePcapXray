@@ -21,14 +21,13 @@ else:
     sys.path.insert(0, 'Module/')
 
 import user_interface
-import art
+
 
 # Import 3rd party Libraries -- Needed to be installed using pip
 import warnings
 warnings.filterwarnings("ignore", category=UserWarning)
 
 def main():
-    print(art.Logo)
     user_interface.pcapXrayCLI()
     import pcap_reader
     
